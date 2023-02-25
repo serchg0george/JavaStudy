@@ -19,5 +19,12 @@ public class Employee {
         double multiplySalary = employee.salary * 2;
         System.out.println("Salary x2 = " + multiplySalary);
     }
+
+  /*    double increaseSalary(){
+        double multiplySalary = salary * 2;
+        System.out.println("Salary x2 = " + multiplySalary);
+        return multiplySalary;
+    }*/
+
 }
 

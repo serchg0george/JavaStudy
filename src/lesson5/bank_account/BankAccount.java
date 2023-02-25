@@ -18,12 +18,11 @@ public class BankAccount {
 
 class BankAccountTest {
     public static void main(String[] args) {
-        BankAccount bankAccountIncrease = new BankAccount();
-        double replenishmentMoney = bankAccountIncrease.replenishmentBankAccount(15,25);
+        BankAccount myAccount = new BankAccount();
+        double replenishmentMoney = myAccount.replenishmentBankAccount(15,25);
         System.out.println("Result of replenishment: " + replenishmentMoney);
 
-        BankAccount bankAccountWithdraw = new BankAccount();
-        double withdrawMoney = bankAccountWithdraw.withdrawBankAccount(25,10);
+        double withdrawMoney = myAccount.withdrawBankAccount(25,10);
         System.out.println("Result of withdraw: " + withdrawMoney);
     }
 }
