@@ -1,18 +1,7 @@
-package lesson4;
+package homework.lesson5.student;
 
-public class Student {
+public class Main {
 
-    int studentCardNumber;
-    String nameStudent;
-    String surnameStudent;
-    int yearOfStudy;
-    double averageGradeMath;
-    double averageGradeEconomics;
-    double averageGradeEnglish;
-
-}
-
-class StudentTest {
     public static void main(String[] args) {
 
         Student sergey = new Student();
@@ -42,11 +31,12 @@ class StudentTest {
         ilia.averageGradeEconomics = 4.4;
         ilia.averageGradeEnglish = 4.9;
 
+        StudentTest.calculateAverageGrade(sergey);
+        StudentTest.calculateAverageGrade(alex);
+        StudentTest.calculateAverageGrade(ilia);
 
-
-        System.out.println("Average grade of: " + sergey.nameStudent + " " + sergey.surnameStudent + " " + (sergey.averageGradeEconomics + sergey.averageGradeMath + sergey.averageGradeEnglish) / 3);
-        System.out.println("Average grade of: " + alex.nameStudent + " " + alex.surnameStudent + " " + (alex.averageGradeEconomics + alex.averageGradeMath + alex.averageGradeEnglish) / 3);
-        System.out.println("Average grade of: " + ilia.nameStudent + " " + ilia.surnameStudent + " " + (ilia.averageGradeEconomics + ilia.averageGradeMath + ilia.averageGradeEnglish) / 3);
 
     }
+
+
 }

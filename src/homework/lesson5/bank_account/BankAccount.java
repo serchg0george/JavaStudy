@@ -1,4 +1,4 @@
-package lesson5.bank_account;
+package homework.lesson5.bank_account;
 
 public class BankAccount {
 
@@ -19,10 +19,10 @@ public class BankAccount {
 class BankAccountTest {
     public static void main(String[] args) {
         BankAccount myAccount = new BankAccount();
-        double replenishmentMoney = myAccount.replenishmentBankAccount(15,25);
+        double replenishmentMoney = myAccount.replenishmentBankAccount(15, 25);
         System.out.println("Result of replenishment: " + replenishmentMoney);
 
-        double withdrawMoney = myAccount.withdrawBankAccount(25,10);
+        double withdrawMoney = myAccount.withdrawBankAccount(25, 10);
         System.out.println("Result of withdraw: " + withdrawMoney);
     }
 }

@@ -1,13 +1,14 @@
-package lesson5.employee;
+package homework.lesson5.employee;
 
 public class Employee {
 
-        int id;
-        String surname;
-        int age;
-        double salary;
-        String department;
-    Employee(int id, String surname, int age, double salary, String department){
+    int id;
+    String surname;
+    int age;
+    double salary;
+    String department;
+
+    Employee(int id, String surname, int age, double salary, String department) {
         this.id = id;
         this.surname = surname;
         this.age = age;
@@ -15,7 +16,7 @@ public class Employee {
         this.department = department;
     }
 
-    public static void increaseSalary(Employee employee){
+    public static void increaseSalary(Employee employee) {
         double multiplySalary = employee.salary * 2;
         System.out.println("Salary x2 = " + multiplySalary);
     }
