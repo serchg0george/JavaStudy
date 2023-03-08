@@ -16,7 +16,6 @@ public class ShowTime {
                 }
 
                 int seconds = 0;
-                INNER:
                 while (seconds < 60) {
 
                     if (seconds * hours > minutes) {
