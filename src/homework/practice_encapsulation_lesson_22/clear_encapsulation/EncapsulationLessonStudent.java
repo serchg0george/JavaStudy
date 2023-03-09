@@ -11,7 +11,10 @@ public class EncapsulationLessonStudent {
     }
 
     public void setStudentName(StringBuilder studentName) {
-        this.studentName = studentName;
+        if (studentName.length() > 3){
+            this.studentName = studentName;
+        }
+        System.out.println("Not enough symbols in the name");
     }
 
     public int getStudentCourse() {
