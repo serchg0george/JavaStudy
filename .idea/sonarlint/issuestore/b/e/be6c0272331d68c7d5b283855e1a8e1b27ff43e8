@@ -1,0 +1,10 @@
+
+‚
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "stringBuilder".(µþÃˆ8ž¿ü˜ì0
+C
+java:S1170"!Make this final field static too.(£‡ÐÂÿÿÿÿÿ8£¿ü˜ì0
+C
+java:S1170"!Make this final field static too.(Í´ˆ©øÿÿÿÿ8¤¿ü˜ì0
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(ßíž•ýÿÿÿÿ8¤¿ü˜ì0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(â½¸º8¦¿ü˜ì0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.( Œ‘˜ûÿÿÿÿ8¦¿ü˜ì0

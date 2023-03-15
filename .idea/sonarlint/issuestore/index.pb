@@ -1,0 +1,29 @@
+
+l
+<src/homework/practice_with_array_list/ArrayListPractice.java,6\0\60041b5508b6c46716a8fb40a131b443892910f1
+p
+@src/homework/practice_with_array_list/ArrayListPracticeMain.java,d\a\daa095ec0eeb7865048c0356252a8e3da45c4733
+O
+src/homework/lesson15/Main.java,8\1\813cc7c2555cb901625092466659dd5a3d86ecf8
+O
+src/homework/lesson13/Main.java,3\f\3f92dd2a609f97c53efb2b2e6309c039133d7e40
+P
+ src/homework/lesson13/Month.java,2\e\2e2bdf33227810f0ef43f804ca33408f18538a3f
+R
+"src/homework/lesson12/Student.java,f\7\f7ed4e75a8287dfa7c7884a27ee77c47efe6e338
+S
+#src/homework/lesson15/ShowTime.java,8\4\841b1c1b17f37119ae6929d61030cfaf7ac70c74
+¤
+tsrc/homework/practice_encapsulation_lesson_22/encapsulation_with_inheritance/AnimalEncapsulationWithInheritance.java,0\5\05925f601b0ce2a0aff0793f5a3907985551758a
+¡
+qsrc/homework/practice_encapsulation_lesson_22/encapsulation_with_inheritance/CatEncapsulationWithInheritance.java,7\c\7c5f2176f930b96c63e339d5f36242b613e7f75b
+‘
+asrc/homework/practice_encapsulation_lesson_22/clear_encapsulation/StartPracticeEncapsulation.java,2\a\2a1cfe8cce561c0a9a1b940ff82bc07edf89ca89
+‘
+asrc/homework/practice_encapsulation_lesson_22/clear_encapsulation/EncapsulationLessonStudent.java,f\d\fddfe530b47b7c6e78b57ebabea5225186ff2c7a
+£
+ssrc/homework/practice_encapsulation_lesson_22/encapsulation_with_inheritance/StartEncapsulationWithInheritance.java,a\9\a936b7501bef898445b03657d9dbf5dd966a5e45
+¡
+qsrc/homework/practice_encapsulation_lesson_22/encapsulation_with_inheritance/DogEncapsulationWithInheritance.java,f\1\f10bac0291959fbc411acde1a3a97f15734678ec
+¡
+qsrc/homework/practice_encapsulation_lesson_22/encapsulation_with_inheritance/PetEncapsulationWithInheritance.java,b\e\be6c0272331d68c7d5b283855e1a8e1b27ff43e8

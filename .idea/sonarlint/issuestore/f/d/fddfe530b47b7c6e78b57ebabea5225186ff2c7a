@@ -1,0 +1,5 @@
+
+‡
+java:S1488	"eImmediately return this expression instead of assigning it to the temporary variable "stringBuilder".(€ÄüÍùÿÿÿÿ8Íˆ¿ì0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¶‘´©8¦Íˆ¿ì0
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(€µ±ûÿÿÿÿ8×û¿ì0
