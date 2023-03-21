@@ -1,5 +1,5 @@
 package homework.practice_with_linked_list;
-Hom
+
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Scanner;
