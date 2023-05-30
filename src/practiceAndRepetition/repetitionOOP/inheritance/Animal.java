@@ -19,4 +19,8 @@ public class Animal {
     public void setAnimalName(String animalName) {
         this.animalName = animalName;
     }
+
+    protected void eatAnimal(){
+
+    }
 }
