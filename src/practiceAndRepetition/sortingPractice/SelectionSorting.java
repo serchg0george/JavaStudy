@@ -1,26 +1,21 @@
 package practiceAndRepetition.sortingPractice;
 
-import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collector;
-import java.util.stream.Collectors;
-
 public class SelectionSorting {
     public static void selectionSorting(int[] array) {
-        int n = array.length;
+        int arrayLength = array.length;
 
-        for (int i = 0; i < n - 1; i++) {
-            int minIndex = i;
+        for (int firstElement = 0; firstElement < arrayLength; firstElement++) {
+            int minIndex = firstElement;
 
-            for (int j = i + 1; j < n; j++) {
-                if (array[j] < array[minIndex]) {
-                    minIndex = j;
+            for (int secondElement = firstElement + 1; secondElement < arrayLength; secondElement++) {
+                if (array[secondElement] < array[minIndex]) {
+                    minIndex = secondElement;
                 }
             }
 
             int temp = array[minIndex];
-            array[minIndex] = array[i];
-            array[i] = temp;
+            array[minIndex] = array[firstElement];
+            array[firstElement] = temp;
         }
     }
 
