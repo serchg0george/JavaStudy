@@ -1,4 +1,4 @@
-package practiceAndRepetition.repetitionOOP.inheritance;
+package practiceAndRepetition.repetition_oop.inheritance;
 
 public class Tiger extends Animal {
 

@@ -1,4 +1,4 @@
-package practiceAndRepetition.practicalTasks;
+package practiceAndRepetition.practical_tasks;
 
 public class FibonacciNumbers {
     public static void main(String[] args) {
@@ -12,6 +12,5 @@ public class FibonacciNumbers {
             n0 = n1;
             n1 = n2;
         }
-        System.out.println();
     }
 }

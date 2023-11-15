@@ -1,4 +1,4 @@
-package practiceAndRepetition.sortingPractice;
+package practiceAndRepetition.sorting_practice;
 
 public class BubbleSorting {
     public static void bubbleSorting(int[] array) {

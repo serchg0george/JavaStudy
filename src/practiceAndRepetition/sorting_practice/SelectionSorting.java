@@ -1,4 +1,4 @@
-package practiceAndRepetition.sortingPractice;
+package practiceAndRepetition.sorting_practice;
 
 public class SelectionSorting {
     public static void selectionSorting(int[] array) {

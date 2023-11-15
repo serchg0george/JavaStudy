@@ -1,4 +1,4 @@
-package practiceAndRepetition.dataStructurePractice;
+package practiceAndRepetition.data_structures_practice;
 
 public class LinkedListLinky<T> {
     private Node<T> head;

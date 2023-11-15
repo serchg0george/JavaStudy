@@ -1,4 +1,4 @@
-package practiceAndRepetition.practicalTasks;
+package practiceAndRepetition.practical_tasks;
 
 import java.util.Arrays;
 
