@@ -1,4 +1,4 @@
-package practiceAndRepetition.data_structures_practice;
+package practice_and_repetition.data_structures_practice;
 
 import java.util.Queue;
 import java.util.Scanner;

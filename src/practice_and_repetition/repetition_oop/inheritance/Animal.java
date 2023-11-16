@@ -1,4 +1,4 @@
-package practiceAndRepetition.repetition_oop.inheritance;
+package practice_and_repetition.repetition_oop.inheritance;
 
 public class Animal {
     private int paws;

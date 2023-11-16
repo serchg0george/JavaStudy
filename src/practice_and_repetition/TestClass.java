@@ -1,4 +1,4 @@
-package practiceAndRepetition;
+package practice_and_repetition;
 
 public class TestClass {
     public static int sum(int... numbers) {

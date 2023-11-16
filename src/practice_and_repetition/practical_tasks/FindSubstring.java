@@ -1,4 +1,4 @@
-package practiceAndRepetition.practical_tasks;
+package practice_and_repetition.practical_tasks;
 
 public class FindSubstring {
     public static void main(String[] args) {

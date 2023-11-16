@@ -1,4 +1,4 @@
-package practiceAndRepetition.multithreading;
+package practice_and_repetition.multithreading;
 
 public class TestRunnable implements Runnable {
 

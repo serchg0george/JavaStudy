@@ -1,4 +1,4 @@
-package practiceAndRepetition.multithreading;
+package practice_and_repetition.multithreading;
 
 public class ThreadsRun {
     public static void main(String[] args) {
