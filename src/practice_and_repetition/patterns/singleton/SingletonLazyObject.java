@@ -4,6 +4,9 @@ public class SingletonLazyObject {
 
     private static SingletonLazyObject instance;
 
+    private SingletonLazyObject() {
+    }
+
     public static SingletonLazyObject getInstance() {
         if (instance == null) {
             instance = new SingletonLazyObject();
