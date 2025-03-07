@@ -17,7 +17,7 @@ public class BubbleSorting {
     }
 
     public static void main(String[] args) {
-        int[] array = {10, 9, 8, 4, 3, 2, 1, 7, 6, 5};
+        int[] array = {2, 18, 8, 26, 10, 22, 28, 1, 11, 21, 31, 3, 9, 27, 4, 14, 24, 5, 23, 6, 17, 29, 7, 19, 13, 15, 16, 20};
 
         bubbleSorting(array);
 
